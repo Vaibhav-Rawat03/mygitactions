@@ -2,8 +2,7 @@ def hello():
     print("hi Vaibhav VR")
 
 
-def bye():
+def bye()
     print("bye Vaibhav")
-
 
 print(hello())
